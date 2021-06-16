@@ -25,9 +25,9 @@ Torch Version: 1.8.1+cu101
 
 ### 데이터 설명
 
-전처리 과정 필요 
-DDoS 패킷들 중 악용기반공격 (Syn Flooding, Udp Flooding, Udplag) 패킷만을 사용
-자세한 사항은 보고서 참고
+전처리 과정 필요  
+DDoS 패킷들 중 악용기반공격 (Syn Flooding, Udp Flooding, Udplag) 패킷만을 사용  
+자세한 사항은 보고서 참고  
 
 ### 코드 돌리는 방법
 
